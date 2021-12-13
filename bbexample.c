@@ -12,6 +12,7 @@
 int main(int argc, char *argv[])
 {
   printf("Hello Yocto World...\n");
+  assert(1);
 
   LibHelloWorld();
 
